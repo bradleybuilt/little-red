@@ -1,6 +1,7 @@
-baseurl: '/'
+url: https://bradleybuilt.github.io
+baseurl: '/little-red'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Little Red'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
