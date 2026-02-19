@@ -1,7 +1,7 @@
 ---
 title: Little Red
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Charming, cozy, and just steps from campus. Little Red is a boutique cottage house with iconic red accents and sun-drenched rooms.
 intro_image: "/images/house.jpeg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
