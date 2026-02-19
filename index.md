@@ -10,4 +10,4 @@ show_call_box: true
 
 # &ldquo;<span style='color: #D32F2F;'>Little Red</span>&rdquo;—<br>A boutique cottage one block from SFA.
 
-Charming, cozy, and just a few steps from campus; offering comfort and convenience with style.
+Charming, cozy, and just a few steps from campus, Little Red offers comfort and convenience with style.
