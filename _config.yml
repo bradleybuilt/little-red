@@ -5,10 +5,10 @@ title: 'Little Red'
 
 logo:
   mobile: "images/logo/mobile-logo_little-red.png"
-  mobile_height: "45px"
-  mobile_width: "45px"
+  mobile_height: "55px"
+  mobile_width: "55px"
   desktop: "images/logo/logo_little-red.png"
-  desktop_height: "55px"
+  desktop_height: "65px"
   desktop_width: "auto" # This helps prevent the logo from stretching
 
 home: 
