@@ -10,4 +10,4 @@ show_call_box: true
 
 # "Little Red"—A boutique rental property one block from SFA.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Charming, cozy, and just steps from campus. Little Red is a boutique cottage house with iconic red accents and sun-drenched rooms.
