@@ -1,13 +1,13 @@
 ---
 title: Little Red
 layout: home
-description: Charming, cozy, and just steps from campus. Little Red is a boutique cottage house with iconic red accents and sun-drenched rooms.
+description: 
 intro_image: "/images/house.jpeg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 
-# "Little Red"—A boutique rental property one block from SFA.
+# "Little Red"—<br>A boutique cottage one block from SFA.
 
-Charming, cozy, and just steps from campus. Little Red is a boutique cottage house with iconic red accents and sun-drenched rooms.
+Charming, cozy, and just a few steps from campus; offering comfort and convenience with style.
